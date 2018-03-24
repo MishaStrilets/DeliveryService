@@ -1,0 +1,38 @@
+body {
+	font-family: Arial;
+	background-color: #7cbdff;
+}
+
+h1 {
+	margin: 10px;
+	font-size: 50px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	float: left;
+}
+
+table {
+	font-size: 15px;
+	margin-top: 10px;
+}
+
+th, td {
+	height: 30px;
+	border: 2px solid #7cbdff;
+	white-space: nowrap;
+}
+
+th {
+	color: #ffffff;
+	background-color: #000000;
+}
+
+td {
+	color: #000000;
+	background-color: #ffffff;
+}
